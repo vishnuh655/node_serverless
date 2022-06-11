@@ -1,0 +1,26 @@
+{
+  "name": "node_serverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.18.0",
+    "@aws-sdk/util-dynamodb": "^3.18.0"
+  },
+  "devDependencies": {
+    "serverless-iam-roles-per-function": "^3.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishnuh655/node_serverless.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishnuh655/node_serverless/issues"
+  },
+  "homepage": "https://github.com/vishnuh655/node_serverless#readme"
+}
